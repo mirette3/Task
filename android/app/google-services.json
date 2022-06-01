@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441597434943",
+    "project_id": "task-109e9",
+    "storage_bucket": "task-109e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441597434943:android:43eea2dfa540beb8ad6c8a",
+        "android_client_info": {
+          "package_name": "com.mytask.task_etisalat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441597434943-tmg3jrenmdq0e0pcb446hsekjqgleftp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ku6OucJwdNJPtDePw3O2JbJLAZ7HUXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441597434943-tmg3jrenmdq0e0pcb446hsekjqgleftp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
